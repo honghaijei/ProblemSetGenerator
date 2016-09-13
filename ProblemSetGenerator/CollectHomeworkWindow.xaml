@@ -1,0 +1,16 @@
+﻿<Window x:Class="ProblemSetGenerator.CollectHomeworkWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="收集作业" Height="325.658" Width="307.895">
+    <Grid>
+        <TextBox x:Name="EmailBox" HorizontalAlignment="Left" Height="23" Margin="78,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" Height="23" Margin="78,95,0,0" PasswordChar="*" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TitleBox" HorizontalAlignment="Left" Height="23" Margin="78,142,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="账号" HorizontalAlignment="Left" Margin="35,47,0,0" VerticalAlignment="Top"/>
+        <Label Content="密码" HorizontalAlignment="Left" Margin="35,93,0,0" VerticalAlignment="Top"/>
+        <Label Content="标题" HorizontalAlignment="Left" Margin="35,142,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.385,0.408"/>
+        <Button x:Name="SendButton" Content="接收" HorizontalAlignment="Left" Margin="196,253,0,0" VerticalAlignment="Top" Width="75" Click="SendButton_Click"/>
+        <Label Content="如果标题为&quot;homework&quot;,那么&#xD;&#xA;邮件的标题为homework&#xD;&#xA;+学号的邮件会被下载,例如&#xD;&#xA;标题为&quot;homework 123456&quot;。" HorizontalAlignment="Left" Margin="73,170,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.385,0.408" Height="78"/>
+
+    </Grid>
+</Window>

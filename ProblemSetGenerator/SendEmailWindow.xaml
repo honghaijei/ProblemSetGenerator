@@ -1,0 +1,23 @@
+﻿<Window x:Class="ProblemSetGenerator.SendEmailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="发送作业" Height="538.746" Width="440.418">
+    <Grid>
+        <TextBox x:Name="EmailBox" HorizontalAlignment="Left" Height="23" Margin="78,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" Height="23" Margin="78,117,0,0" PasswordChar="*" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TitleBox" HorizontalAlignment="Left" Height="23" Margin="78,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="邮件地址" HorizontalAlignment="Left" Margin="15,47,0,0" VerticalAlignment="Top"/>
+        <Label Content="密码" HorizontalAlignment="Left" Margin="35,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="标题" HorizontalAlignment="Left" Margin="35,164,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.385,0.408"/>
+        <Button x:Name="SendButton" Content="发送" HorizontalAlignment="Left" Margin="341,472,0,0" VerticalAlignment="Top" Width="75" Click="SendButton_Click"/>
+        <TextBox x:Name="ContentTextBox" HorizontalAlignment="Left" Height="140" Margin="35,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="381" AcceptsReturn="True"/>
+        <Label Content="内容" HorizontalAlignment="Left" Margin="35,267,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.385,0.408"/>
+        <Label Content="SMTP服务器地址" HorizontalAlignment="Left" Margin="35,204,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.385,0.408"/>
+        <Label Content="SMTP服务器端口" HorizontalAlignment="Left" Margin="35,239,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.385,0.408"/>
+        <TextBox x:Name="SMTPAddress" HorizontalAlignment="Left" Height="23" Margin="147,208,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="186"/>
+        <TextBox x:Name="SMTPPort" HorizontalAlignment="Left" Height="23" Margin="147,242,0,0" TextWrapping="Wrap" Text="25" VerticalAlignment="Top" Width="186"/>
+        <Label Content="账号" HorizontalAlignment="Left" Margin="35,78,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Account" HorizontalAlignment="Left" Height="23" Margin="78,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
