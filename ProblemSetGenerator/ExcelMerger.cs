@@ -20,7 +20,7 @@ namespace ProblemSetGenerator
             string root = Directory.GetCurrentDirectory();
             app.DisplayAlerts = false;
             
-            app.Visible = false;
+            app.Visible = true;
             app.Workbooks.Add("");
             app.Workbooks.Add(root + "\\ch1.xlsx");
             app.Workbooks.Add(root + "\\ch2.xlsx");
@@ -108,7 +108,7 @@ namespace ProblemSetGenerator
             string root = Directory.GetCurrentDirectory();
             app.DisplayAlerts = false;
 
-            app.Visible = false;
+            app.Visible = true;
             app.Workbooks.Add(filename);
             int len = app.Workbooks[1].Worksheets.Count;
             Worksheet ws1 = app.Workbooks[1].Worksheets[len - 1];
@@ -166,7 +166,7 @@ namespace ProblemSetGenerator
 
             var Problems = GetCandidates();
 
-            app.Visible = false;
+            app.Visible = true;
             app.Workbooks.Add(root + "\\feedback.xlsx");
 
             int pos = 0;
@@ -209,7 +209,7 @@ namespace ProblemSetGenerator
 
             //var Problems = GetCandidates();
 
-            app.Visible = false;
+            app.Visible = true;
             app.Workbooks.Add(root + "\\feedback.xlsx");
 
             int pos = 0;
@@ -288,7 +288,7 @@ namespace ProblemSetGenerator
                     Helper.MergeProblems(sd, Numbers[number][0], Numbers[number][1], Numbers[number][2], Numbers[number][3]);
                     var feedback = sd.GetFiles().FirstOrDefault(x => x.Name.EndsWith(".xlsx"));
                     app = new Microsoft.Office.Interop.Excel.Application();
-                    app.Visible = false;
+                    app.Visible = true;
                     app.DisplayAlerts = false;
                     if (feedback != null)
                     {
@@ -312,7 +312,7 @@ namespace ProblemSetGenerator
 
             string root = Directory.GetCurrentDirectory();
 
-            app.Visible = false;
+            app.Visible = true;
             app.Workbooks.Add(root + "\\feedback.xlsx");
 
             int pos = 0;
@@ -430,7 +430,7 @@ namespace ProblemSetGenerator
                 }
                 app = new Microsoft.Office.Interop.Excel.Application();
 
-                app.Visible = false;
+                app.Visible = true;
                 app.DisplayAlerts = false;
                 app.Workbooks.Add(root + "\\feedback.xlsx");
 
@@ -462,7 +462,7 @@ namespace ProblemSetGenerator
 
             string root = Directory.GetCurrentDirectory();
 
-            app.Visible = false;
+            app.Visible = true;
             app.Workbooks.Add(root + "\\feedback.xlsx");
 
             int pos = 0;
@@ -553,7 +553,7 @@ namespace ProblemSetGenerator
 
 
             app = new Application();
-            app.Visible = false;
+            app.Visible = true;
             app.Workbooks.Add(root + "\\feedback.xlsx");
 
             int pos = 0;
@@ -638,7 +638,7 @@ namespace ProblemSetGenerator
                     app = new Application();
                     app.DisplayAlerts = false;
                     
-                    app.Visible = false;
+                    app.Visible = true;
                     app.Workbooks.Add("");
                     app.Workbooks.Open(dic[num][0].FullName);
                     app.Workbooks.Open(dic[num][1].FullName);
@@ -716,7 +716,7 @@ namespace ProblemSetGenerator
 
             app = new Application();
             app.DisplayAlerts = false;
-            app.Visible = false;
+            app.Visible = true;
             app.Workbooks.Add(root + "\\feedback.xlsx");
 
             for (int i = 7; ; ++i) {

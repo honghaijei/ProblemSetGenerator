@@ -41,3 +41,46 @@ C:\Users\hahong\documents\visual studio 2013\Projects\ProblemSetGenerator\Proble
 C:\Users\hahong\documents\visual studio 2013\Projects\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\hahong\documents\visual studio 2013\Projects\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\hahong\documents\visual studio 2013\Projects\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\template.docx
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\ProblemSetGenerator.exe.config
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\ProblemSetGenerator.exe
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\ProblemSetGenerator.pdb
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\template.docx
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\ProblemSetGenerator.exe
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\ProblemSetGenerator.pdb
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\Ionic.Zip.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\itextsharp.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\OpenPop.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\Ionic.Zip.xml
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\itextsharp.xml
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\ProblemSetGenerator.csprojResolveAssemblyReference.cache
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\CollectHomeworkWindow.baml
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\GenerateProblem.baml
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\MainWindow.baml
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\SendEmailWindow.baml
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\SendFeedbackWindow.baml
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\CollectHomeworkWindow.g.cs
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\GenerateProblem.g.cs
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\SendEmailWindow.g.cs
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\SendFeedbackWindow.g.cs
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\App.g.cs
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\ProblemSetGenerator_MarkupCompile.cache
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\ProblemSetGenerator.g.resources
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\ProblemSetGenerator.Properties.Resources.resources
+C:\Users\hahong\Documents\ProblemsetGenerator\ProblemSetGenerator\ProblemSetGenerator\obj\Debug\ProblemSetGenerator.csproj.GenerateResource.Cache

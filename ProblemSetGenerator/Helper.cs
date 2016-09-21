@@ -21,7 +21,7 @@ namespace ProblemSetGenerator
         public WordDocumentMerger()
         {
             objApp = new Application();
-            objApp.Visible = false;
+            objApp.Visible = true;
             objApp.DisplayAlerts = WdAlertLevel.wdAlertsNone;
         }
         #region 打开文件
@@ -348,7 +348,7 @@ namespace ProblemSetGenerator
             // C# doesn't have optional arguments so we'll need a dummy value
             object oMissing = System.Reflection.Missing.Value;
 
-            word.Visible = false;
+            word.Visible = true;
             word.ScreenUpdating = false;
 
             // Cast as Object for word Open method
@@ -387,7 +387,7 @@ namespace ProblemSetGenerator
         }
         public static void ConvertFeedbackToPdf(string input, string output) {
             var app = new Microsoft.Office.Interop.Excel.Application();
-            app.Visible = false;
+            app.Visible = true;
             app.DisplayAlerts = false;
             app.Workbooks.Add(input);
             //while (wkb.Worksheets.Count > 1)
@@ -554,11 +554,6 @@ namespace ProblemSetGenerator
             Helper.ConvertWordToPdf(workDir.FullName + "\\" + outputName + ".docx", workDir.FullName + "\\" + outputName + ".pdf");
             
 
-            try
-            {
-                Helper.CopyDirectory(root + "\\" + "ref for homework", workDir.FullName + "\\" + "ref for homework");
-            }
-            catch { }
 
             
         }
